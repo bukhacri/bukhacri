@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;I+am+Bukhari+Azhar....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="www.linkedin.com/in/bukhari-azhar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/bukhacri/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 
 <!--
 **bukhacri/bukhacri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
