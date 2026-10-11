@@ -21,7 +21,9 @@
   <br>
   📚 I’m currently learning about frameworks and data analysis tools
   <br>
-  📫 How to reach me: <a href="mailto: bukh.13ari@gmail.com">bukh.13ari@gmail.com</a>
+  📫 How to reach me: <a href="mailto: bukh.13ari@gmail.com">bukhacri@gmail.com</a>
+  <br>
+  ☺️ View my portfolio: https://bukhari-portfolio.netlify.app/
 </p>
 
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
